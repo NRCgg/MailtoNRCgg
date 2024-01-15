@@ -1,3 +1,13 @@
+# Based on template located at [https://github.com/chapb/GitHub-pages-mailto.git](https://github.com/chapb/GitHub-pages-mailto.git)
+
+Below is the original "README.md" content.
+
+-cgg
+
+---
+
+
+
 # How to use GitHub Pages to serve a "mailto:"
 
 A "mailto:" link (defined in [RFC6068](https://datatracker.ietf.org/doc/html/rfc6068)) prompts the user to create a new email in their default mail client, with an address, subject, and body you specify. Using GitHub pages, we can create a simple website that automatically opens a mailto: link without user interaction.
